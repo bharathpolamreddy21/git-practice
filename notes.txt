@@ -1,1 +1,3 @@
 Hello git
+This will be the second line
+This will be the third line
